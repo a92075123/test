@@ -1,4 +1,4 @@
-public class TwoSum {
+public class A1TwoSum {
     public static void main(String[] args) {
 
         Solution solution =new Solution();
